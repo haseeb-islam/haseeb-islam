@@ -31,9 +31,9 @@ src="https://komarev.com/ghpvc/?username=haseeb-islam&style=flat-square&color=bl
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in building robust web applications and software solutions. Here are a few things about me:
 
-- 💻 Currently, I'm working as a Backend Developer (Node JS)
+- 💻 Currently, I'm working as a Full stack Developer
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; ![Linkedin Badge](your-linkedIn-Url)
+- 📫 How to reach me: &nbsp; ![Linkedin Badge]([your-linkedIn-Url](https://www.linkedin.com/in/haseeb-islam-44123a124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
 
