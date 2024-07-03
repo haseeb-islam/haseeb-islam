@@ -105,7 +105,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
   </a>
 </div>
   
-  
+  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg"><img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
   
   
 
