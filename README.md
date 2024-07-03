@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 - 💻 Currently, I'm working as a Full stack Developer
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; ![Linkedin Badge]([your-linkedIn-Url](https://www.linkedin.com/in/haseeb-islam-44123a124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
-
+- 📫 How to reach me: &nbsp; ![Linkedin Badge](https://img.shields.io/badge/-Haseeb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-islam-44123a124)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
