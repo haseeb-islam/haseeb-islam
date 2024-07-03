@@ -27,7 +27,7 @@ src="https://komarev.com/ghpvc/?username=haseeb-islam&style=flat-square&color=bl
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: I'm a Full Stack Developer, Expert in MERN & Instructor :
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in building robust web applications and software solutions. Here are a few things about me:
 
