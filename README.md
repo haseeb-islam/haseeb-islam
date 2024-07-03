@@ -97,7 +97,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 ### 🤝: Let's Connect :
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/haseeb-islam/">
+  <a href="https://https://www.linkedin.com/in/haseeb-islam-44123a124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/haseeb-islam">
