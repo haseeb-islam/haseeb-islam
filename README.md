@@ -108,10 +108,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 <!-- BLOG-POST-LIST:START -->
 
-- How to create a GitHub Profile README
-- How to create a GitHub Profile README
-- How to create a GitHub Profile README
-- How to create a GitHub Profile README
-- How to create a GitHub Profile README
+
 
 <!-- BLOG-POST-LIST:END -->
