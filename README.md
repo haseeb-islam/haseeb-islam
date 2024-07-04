@@ -75,9 +75,23 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 
 
-### 📈: GitHub Stats1 :
+### 📈 Services I offer :
 
-: !GitHub Stats
+<ul dir="auto">
+<li>🌐 Web Application Development</li>
+<li>🤖 Generative AI and Chatbot Creation</li>
+<li>🤖 AI based Development</li>
+<li>📊 Data Analysis and Data Science</li>
+<li>🖥️ Desktop Application Development</li>
+<li>📚 Teaching and Training</li>
+<li>🗃️ Database Architecture and Administration</li>
+<li>🌟 Website Design and Development</li>
+<li>🎨 Graphic Design and Photo Editing</li>
+<li>🎬 Video Editing</li>
+<li>📝 Technical Writing and Documentation</li>
+<li>🗣️ Public Speaking</li>
+<li>👨‍💻 Programming and Development Solutions</li>
+</ul>
 
 
 
