@@ -79,8 +79,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 ### 📫: How to reach me :
 
 <ul dir="auto">
-- 📧: [Email] If you are looking for any consultation feel free to reach out to me at <a href="mailto:haseeb.islam22@gmail.com"> haseeb.islam22@gmail.com</a>
-<br>- 📱: LinkedIn https://www.linkedin.com/in/haseeb-islam
+  
+   If you are looking for any consultation feel free to reach out to me at <br><br>- 📧: [Email] <a href="mailto:haseeb.islam22@gmail.com"> haseeb.islam22@gmail.com</a>
+<br>- 📱: [LinkedIn] https://www.linkedin.com/in/haseeb-islam
 </ul>
 
 ---
