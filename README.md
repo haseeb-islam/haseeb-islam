@@ -25,7 +25,8 @@ Hello there, I'm Haseeb Islam.
 
 ### :man_technologist: I'm a Full Stack Developer, Expert in MERN & Instructor
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing in building robust web applications and mobile solutions. 
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing in building robust web applications and mobile solutions. </br>
+</br>
 **Here are a few things about me:**
 
 💻 Currently, I'm working as a Full Stack Developer, focusing on creating dynamic and user-friendly web and mobile applications.
