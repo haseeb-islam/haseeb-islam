@@ -8,7 +8,7 @@ src="https://komarev.com/ghpvc/?username=haseeb-islam&style=flat-square&color=bl
 </div>
 </div>
 
-<h1>
+<h1 style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
 Hello there, I'm Haseeb Islam.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -22,11 +22,12 @@ Hello there, I'm Haseeb Islam.
 
 ### :man_technologist: I'm a Full Stack Developer, Expert in MERN & Instructor
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing in building robust web applications and mobile solutions. Here are a few things about me:
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing in building robust web applications and mobile solutions. 
+**Here are a few things about me:**
 
 💻 Currently, I'm working as a Full Stack Developer, focusing on creating dynamic and user-friendly web and mobile applications.
 
-🚀 Services I offer:
+**🚀 Services I offer:**
 Web Development
 Front-End Development: Crafting responsive and efficient websites using modern frameworks and technologies.
 Back-End Development: Creating scalable and secure server-side applications.
@@ -39,35 +40,35 @@ Consultation: Offering expert advice on web architecture and technology stack se
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL" alt="GraphQL" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" alt="Google Cloud" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" title="Chart.js" alt="Chart.js" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery" alt="jQuery" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS" alt="NestJS" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" title="Node.js" alt="Node.js" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" title="Nuxt.js" alt="Nuxt.js" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis" alt="Redis" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#"  height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL" alt="GraphQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" alt="Google Cloud"  height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase"  height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" title="Chart.js" alt="Chart.js"  height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery" alt="jQuery" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS" alt="NestJS" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" title="Node.js" alt="Node.js" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" title="Nuxt.js" alt="Nuxt.js" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis" alt="Redis" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman" height="40"/>&nbsp;
 </div>
 
 ---
 ## My Standout Achievements
 
-Standout Achievements:
+#### Standout Achievements:
 
 **Workout Timer** is a versatile and fully customizable interval timer designed to enhance any workout routine. It allows users to create unique exercises, play their own music, and maintain a consistent pace across various fitness activities, making it an essential tool for gym enthusiasts and home workouts alike.
 
-Main Features:
+**Main Features:**
 
 Customizable Workouts: Create sets, exercises, and rounds with ease.
 Music Integration: Play your own music in the background during workouts.
@@ -77,14 +78,14 @@ Workout Saving: Save your custom workouts for future use.
 Custom Rep Tempos: New feature for Time-Under-Tension rep tempos.
 Versatile Use: Ideal for HIIT, Tabata, boxing, calisthenics, and more.
 
-Technologies used:
+**Technologies used:**
 
                    React Native, Node. Js
 
 
 **Soulcalm**  is a comprehensive meditation app designed to improve sleep quality, reduce stress, and enhance overall well-being. With innovative techniques like the Insight Timer and Smiling Mind, Soulcalm offers a unique approach to meditation, making it an essential tool for mental health and relaxation.
 
-Main Features:
+**Main Features:**
 
 Sleep Meditation: Insight Timer and Smiling Mind techniques for deep, rejuvenating sleep.
 Guided Meditation: Bedtime routines and deep breathing techniques for daily serenity.
@@ -93,7 +94,7 @@ Meditation Tracker: Maintain consistency and track progress for optimal results.
 Workplace Relaxation: Short guided meditations and breathing exercises to boost productivity.
 Health Benefits: Improved mental health, reduced stress and anxiety, better emotional control, and enhanced concentration and memory.
 Subscription Management: Easy subscription management with detailed terms and conditions. 
-Technologies used
+**Technologies used**
 
                   JavaScript, React, Node MogoDB, 
 
@@ -143,11 +144,18 @@ Technologies used
 
 ### 📫: How to reach me
 
-<ul dir="auto">
-  
-   If you are looking for any consultation feel free to reach out to me at <br><br>- 📧: [Email] <a href="mailto:haseeb.islam22@gmail.com"> haseeb.islam22@gmail.com</a>
-<br>- 📱: [LinkedIn] <https://www.linkedin.com/in/haseeb-islam>
-</ul>
+<div style="font-size: 1.2em;">
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/>
+      📧: <a href="mailto:haseeb.islam22@gmail.com" style="text-decoration: none; color: #0073b1;">haseeb.islam22@gmail.com</a>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/0073b1/linkedin.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/>
+      📱: <a href="https://www.linkedin.com/in/haseeb-islam" style="text-decoration: none; color: #0073b1;" target="_blank">LinkedIn Profile</a>
+    </li>
+  </ul>
+</div>
 
 
 ---
