@@ -1,6 +1,7 @@
-<div id="badges" style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/
+
   </a>
   <div style="margin-left:3px">
 <img
@@ -8,9 +9,11 @@ src="https://komarev.com/ghpvc/?username=haseeb-islam&style=flat-square&color=bl
 </div>
 </div>
 
-<h1 style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+<h1  align="center"></br>
 Hello there, I'm Haseeb Islam.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img
+     align="center
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
