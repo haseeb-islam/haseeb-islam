@@ -32,13 +32,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 💻 Currently, I'm working as a Full Stack Developer, focusing on creating dynamic and user-friendly web and mobile applications.
 
 **🚀 Services I offer:**
-Web Development
-Front-End Development: Crafting responsive and efficient websites using modern frameworks and technologies.
-Back-End Development: Creating scalable and secure server-side applications.
-API Development: Designing and implementing robust RESTful APIs.
-Database Management: Handling data storage, retrieval, and optimization.
-Custom Web Solutions: Developing tailored web software to meet unique business needs.
-Consultation: Offering expert advice on web architecture and technology stack selection.
+Web Development</br>
+Front-End Development: Crafting responsive and efficient websites using modern frameworks and technologies.</br>
+Back-End Development: Creating scalable and secure server-side applications.</br>
+API Development: Designing and implementing robust RESTful APIs.</br>
+Database Management: Handling data storage, retrieval, and optimization.</br>
+Custom Web Solutions: Developing tailored web software to meet unique business needs.</br>
+Consultation: Offering expert advice on web architecture and technology stack selection.</br>
 
 ---
 
