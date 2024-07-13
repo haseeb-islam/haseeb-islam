@@ -97,7 +97,7 @@ Relaxation Tools: Transcendental meditation, headspace meditation, and relax mel
 Meditation Tracker: Maintain consistency and track progress for optimal results.
 Workplace Relaxation: Short guided meditations and breathing exercises to boost productivity.
 Health Benefits: Improved mental health, reduced stress and anxiety, better emotional control, and enhanced concentration and memory.
-Subscription Management: Easy subscription management with detailed terms and conditions. 
+Subscription Management: Easy subscription management with detailed terms and conditions. </br></br>
 **Technologies used**
 
                   JavaScript, React, Node MogoDB, 
